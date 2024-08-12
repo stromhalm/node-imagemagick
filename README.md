@@ -9,7 +9,7 @@ ImageMagick is already configured to be used within NodeJS, also supporting PDF 
 ## Installation
 To use the latest image, install the pre-build image from the command line
 ```
-$ docker pull ghcr.io/stromhalm/node-imagemagick:main
+docker pull ghcr.io/stromhalm/node-imagemagick:main
 ```
 Or use it as a base image in your Dockerfile:
 ```

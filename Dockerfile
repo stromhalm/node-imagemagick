@@ -1,4 +1,4 @@
-FROM node:21
+FROM node:24
 
 # Use production node environment by default.
 ENV NODE_ENV production
